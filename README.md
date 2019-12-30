@@ -18,6 +18,7 @@ We keep each project in Batch's Dropbox folder under `Projects`.
 - `07 - Code`
 - `08 - Assets`
 - `09 - Presentations`
+- `10 - Backups`
 
 ## Naming conventions
 
