@@ -11,14 +11,15 @@ We keep each project in Batch's Dropbox folder under `Projects`.
 - `00 - Supplied`
 - `01 - Documents`
 - `02 - Discovery`
-- `03 - Wireframes`
-- `04 - Content`
-- `05 - Design`
-- `06 - Prototypes`
-- `07 - Code`
-- `08 - Assets`
-- `09 - Presentations`
-- `10 - Backups`
+- `03 - Sitemaps`
+- `04 - Wireframes`
+- `05 - Content`
+- `06 - Design`
+- `07 - Prototypes`
+- `08 - Code`
+- `09 - Assets`
+- `10 - Presentations`
+- `11 - Backups`
 
 ## Naming conventions
 
